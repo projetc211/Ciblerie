@@ -1,0 +1,32 @@
+[
+  {"id": 1, "name": "Guerrier I", "tier": 1, "stars": 1, "maxStars": 5, "icon": "assets/images/grades/guerrier_1.png", "promotionTo": 2, "demotionTo": null, "demotionRule": "Aucune"},
+  {"id": 2, "name": "Guerrier II", "tier": 1, "stars": 2, "maxStars": 5, "icon": "assets/images/grades/guerrier_2.png", "promotionTo": 3, "demotionTo": 1, "demotionRule": "Aucune"},
+  {"id": 3, "name": "Guerrier III", "tier": 1, "stars": 3, "maxStars": 5, "icon": "assets/images/grades/guerrier_3.png", "promotionTo": 4, "demotionTo": 2, "demotionRule": "Aucune"},
+
+  {"id": 4, "name": "Élite I", "tier": 2, "stars": 4, "maxStars": 5, "icon": "assets/images/grades/elite_1.png", "promotionTo": 5, "demotionTo": 3, "demotionRule": "Aucune"},
+  {"id": 5, "name": "Élite II", "tier": 2, "stars": 5, "maxStars": 5, "icon": "assets/images/grades/elite_2.png", "promotionTo": 6, "demotionTo": 4, "demotionRule": "Aucune"},
+  {"id": 6, "name": "Élite III", "tier": 2, "stars": 6, "maxStars": 5, "icon": "assets/images/grades/elite_3.png", "promotionTo": 7, "demotionTo": 5, "demotionRule": "Aucune"},
+
+  {"id": 7, "name": "Maître I", "tier": 3, "stars": 7, "maxStars": 5, "icon": "assets/images/grades/maitre_1.png", "promotionTo": 8, "demotionTo": 6, "demotionRule": "Rétrogradation division inférieure"},
+  {"id": 8, "name": "Maître II", "tier": 3, "stars": 8, "maxStars": 5, "icon": "assets/images/grades/maitre_2.png", "promotionTo": 9, "demotionTo": 7, "demotionRule": "Rétrogradation division inférieure"},
+  {"id": 9, "name": "Maître III", "tier": 3, "stars": 9, "maxStars": 5, "icon": "assets/images/grades/maitre_3.png", "promotionTo": 10, "demotionTo": 8, "demotionRule": "Rétrogradation division inférieure"},
+
+  {"id": 10, "name": "Grand Maître I", "tier": 4, "stars": 10, "maxStars": 5, "icon": "assets/images/grades/grand_maitre_1.png", "promotionTo": 11, "demotionTo": 9, "demotionRule": "Rétrogradation division inférieure"},
+  {"id": 11, "name": "Grand Maître II", "tier": 4, "stars": 11, "maxStars": 5, "icon": "assets/images/grades/grand_maitre_2.png", "promotionTo": 12, "demotionTo": 10, "demotionRule": "Rétrogradation division inférieure"},
+  {"id": 12, "name": "Grand Maître III", "tier": 4, "stars": 12, "maxStars": 5, "icon": "assets/images/grades/grand_maitre_3.png", "promotionTo": 13, "demotionTo": 11, "demotionRule": "Rétrogradation division inférieure"},
+
+  {"id": 13, "name": "Épique I", "tier": 5, "stars": 13, "maxStars": 5, "icon": "assets/images/grades/epique_1.png", "promotionTo": 14, "demotionTo": 12, "demotionRule": "Rétrogradation division inférieure"},
+  {"id": 14, "name": "Épique II", "tier": 5, "stars": 14, "maxStars": 5, "icon": "assets/images/grades/epique_2.png", "promotionTo": 15, "demotionTo": 13, "demotionRule": "Rétrogradation division inférieure"},
+  {"id": 15, "name": "Épique III", "tier": 5, "stars": 15, "maxStars": 5, "icon": "assets/images/grades/epique_3.png", "promotionTo": 16, "demotionTo": 14, "demotionRule": "Rétrogradation division inférieure"},
+  {"id": 16, "name": "Épique IV", "tier": 5, "stars": 16, "maxStars": 5, "icon": "assets/images/grades/epique_4.png", "promotionTo": 17, "demotionTo": 15, "demotionRule": "Rétrogradation division inférieure"},
+  {"id": 17, "name": "Épique V", "tier": 5, "stars": 17, "maxStars": 5, "icon": "assets/images/grades/epique_5.png", "promotionTo": 18, "demotionTo": 16, "demotionRule": "Rétrogradation division inférieure"},
+
+  {"id": 18, "name": "Légende I", "tier": 6, "stars": 18, "maxStars": 5, "icon": "assets/images/grades/legende_1.png", "promotionTo": 19, "demotionTo": 17, "demotionRule": "Rétro à Épique 3"},
+  {"id": 19, "name": "Légende II", "tier": 6, "stars": 19, "maxStars": 5, "icon": "assets/images/grades/legende_2.png", "promotionTo": 20, "demotionTo": 18, "demotionRule": "Rétro à Épique 3"},
+  {"id": 20, "name": "Légende III", "tier": 6, "stars": 20, "maxStars": 5, "icon": "assets/images/grades/legende_3.png", "promotionTo": 21, "demotionTo": 19, "demotionRule": "Rétro à Épique 4"},
+
+  {"id": 21, "name": "Immortel Mythique1000", "tier": 7, "stars": 21, "maxStars":3, "icon": "assets/images/grades/immortel_1000.png", "promotionTo": 22, "demotionTo": 20, "demotionRule": "Rétro à Légende 5"},
+  {"id": 22, "name": "Immortel Mythique100", "tier": 7, "stars": 22, "maxStars": 6, "icon": "assets/images/grades/immortel_100.png", "promotionTo": 23, "demotionTo": 21, "demotionRule": "Rétro à Légende 5"},
+  {"id": 23, "name": "Immortel Mythique10", "tier": 7, "stars": 23, "maxStars":9, "icon":"assets/images/grades/immortel_10.png", "promotionTo": 24, "demotionTo": 22, "demotionRule": "Rétro à Légende 5"},
+  {"id": 24, "name": "Immortel Mythique1", "tier": 7, "stars": 24, "maxStars":12, "icon": "assets/images/grades/immortel_1.png", "promotionTo": null, "demotionTo": 23, "demotionRule": "Rétro à Légende 5"}
+]
